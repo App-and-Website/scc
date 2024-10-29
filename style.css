@@ -35,6 +35,9 @@
       margin-right: -5px;
    }
  }
+ .social_topbar {
+   display: flex!important; 
+}
  @media  screen and (min-width: 576px) {
    .social_topbar{
       display: flex!important;
@@ -45,6 +48,7 @@
       display: flex!important;
    }
  }
+
 
 
 /* Header css starts*/
@@ -63,8 +67,13 @@
   display: flex;
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
-
+@media  screen and (max-width: 576px) {
+   .con_item h5{
+      font-size: 16px;
+    }
+}
 
 /* Footer css starts*/
 .footer_logo a img{
