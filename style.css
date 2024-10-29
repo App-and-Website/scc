@@ -55,7 +55,9 @@
 .logo_main img{
    height: 85px;
 }
-
+.mobile_menu_outer img{
+   height: 72px;
+}
 
 .featured_item_hero .feature-two-item{
    padding: 70px 40px;
