@@ -111,17 +111,29 @@ height: 150px;
   color:#E49042;
 }
 
-
-
+@media  screen and (max-width: 768px) {
+.container_full_mobile{
+   padding: 0px;
+   max-width: 100%;
+   border-radius: 0!important;
+}
+.container_full_mobile .header-inner{
+   border-radius: 0!important;
+}
+}
 
 .title_green{
    color: #199A5D!important;
 }
-
+.feature-two-item .icon img{
+   height: 70px;
+}
 .care_adv_mt{
    margin-top: 0px;
 }
-
+.services_row .content{
+   background: #199A5D!important;
+}
 .blog_content_bottom p{
    margin-bottom: 20px!important;
 }
