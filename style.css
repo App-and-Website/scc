@@ -118,7 +118,9 @@ height: 150px;
    color: #199A5D!important;
 }
 
-
+.care_adv_mt{
+   margin-top: 0px;
+}
 
 .blog_content_bottom p{
    margin-bottom: 20px!important;
