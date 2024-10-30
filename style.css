@@ -120,6 +120,9 @@ height: 150px;
 .container_full_mobile .header-inner{
    border-radius: 0!important;
 }
+.main-menu .navbar-collapse > ul {
+   border-radius: 0px;
+}
 }
 
 .title_green{
