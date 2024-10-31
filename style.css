@@ -153,9 +153,13 @@ height: 150px;
 }
 
 .board_member_item{
+display: flex;
+flex-direction: column;
 background: #011541;
 }
-
+.board_member_item p{
+   color: #ccc;
+}
 
 
 
