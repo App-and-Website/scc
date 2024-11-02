@@ -52,6 +52,9 @@
 
 
 /* Header css starts*/
+.main-header.header-one .header-inner {
+   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.08)!important;
+}
 .logo_main img{
    height: 85px;
 }
@@ -152,18 +155,27 @@ height: 150px;
    max-height: 100%!important;
 }
 
-.board_member_item{
+.wrapper_board{
 display: flex;
 flex-direction: column;
 background: #011541;
 }
 .board_member_item p{
    color: #ccc;
+   font-size: 14px;
+   line-height: 22px;
 }
 
 
-
-
-
+.contact_left{
+   display: flex;
+   align-items: center;
+}
+.contact_page_icons li a{
+   color: #eee;
+}
+.contact_page_icons li a i{
+   color: #eee;
+}
 
 
