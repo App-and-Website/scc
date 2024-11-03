@@ -177,5 +177,18 @@ background: #011541;
 .contact_page_icons li a i{
    color: #eee;
 }
-
-
+.adress_loc_wrap{
+   margin-top: 20px;
+   border-bottom: 1px solid #ccc;
+}
+.adress_loc_wrap:last-child{
+   border-bottom: 0px solid #ccc;
+}
+.adress_loc_wrap p{
+   margin-top: -20px;
+   font-size: 16px;
+   color: #eee;
+}
+.adress_loc_wrap h4{
+font-size: 18px;
+}
