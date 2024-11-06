@@ -192,3 +192,9 @@ background: #011541;
 .adress_loc_wrap h4{
 font-size: 18px;
 }
+
+
+.blog_details_image img{
+   border-radius: 12px;
+   margin-bottom: 20px;
+}
